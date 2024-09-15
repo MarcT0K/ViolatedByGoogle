@@ -3,7 +3,6 @@
 {{ partial "head.html" . }}
 
 <body>
-  {{ partial "nav.html" . }}
   <section class="container grid-md">
     <div class="columns">
       {{ block "profile" . }}{{ end }}
@@ -11,7 +10,6 @@
       {{ partial "footer.html" . }}
     </div>
   </section>
-  {{ partial "js.html" . }}
 </body>
 
 </html>

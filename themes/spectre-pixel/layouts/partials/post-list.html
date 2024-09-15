@@ -1,32 +1,35 @@
 <div class="timeline">
-{{ $curYear := 1900 }}
-{{ range where .Paginator.Pages "Section" "ne" "" }}
-  {{ if ne $curYear .Date.Year }}
-    {{ $curYear = .Date.Year }}
-    <div class="timeline-item">
-      <div class="timeline-left tooltip" data-tooltip="Year {{ $curYear }}">
-        <div class="timeline-icon icon-lg"><i class="far fa-calendar-check"></i></div>
-      </div>
-      <div class="timeline-content">
-        <div class="tile">
-          <div class="tile-content"><kbd class="tile-title h4">{{ $curYear }}</kbd></div>
-        </div>
+  {{ $curYear := 1900 }}
+  {{ range .Site.Data.violations }}
+  {{ if ne $curYear .year}}
+  {{ $curYear = .year}}
+  <div class="timeline-item">
+    <div class="timeline-left tooltip" data-tooltip="Year {{ $curYear }}">
+      <div class="timeline-icon icon-lg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="70%">
+        <path d="M504.971 199.362l-22.627-22.627c-9.373-9.373-24.569-9.373-33.941 0l-5.657 5.657L329.608 69.255l5.657-5.657c9.373-9.373 9.373-24.569 0-33.941L312.638 7.029c-9.373-9.373-24.569-9.373-33.941 0L154.246 131.48c-9.373 9.373-9.373 24.569 0 33.941l22.627 22.627c9.373 9.373 24.569 9.373 33.941 0l5.657-5.657 39.598 39.598-81.04 81.04-5.657-5.657c-12.497-12.497-32.758-12.497-45.255 0L9.373 412.118c-12.497 12.497-12.497 32.758 0 45.255l45.255 45.255c12.497 12.497 32.758 12.497 45.255 0l114.745-114.745c12.497-12.497 12.497-32.758 0-45.255l-5.657-5.657 81.04-81.04 39.598 39.598-5.657 5.657c-9.373 9.373-9.373 24.569 0 33.941l22.627 22.627c9.373 9.373 24.569 9.373 33.941 0l124.451-124.451c9.372-9.372 9.372-24.568 0-33.941z" fill="currentColor"/></svg>
       </div>
     </div>
+    <div class="timeline-content">
+      <div class="tile">
+        <div class="tile-content"><kbd class="tile-title h4">{{ $curYear }}</kbd></div>
+      </div>
+    </div>
+  </div>
   {{ end }}
   <div class="timeline-item">
-    <div class="timeline-left tooltip" data-tooltip="{{ .Date.Format "January 2006" }}">
+    <div class="timeline-left tooltip" data-tooltip="{{ .month }} {{ .year }}">
       <i class="timeline-icon"></i>
     </div>
     <div class="timeline-content">
-      <div class="divider my-2" data-content="{{ .Date.Format "January" }}"></div>
-      <a class="tile s-rounded shadow my-gap p-2" href="{{ .Permalink }}" style="text-decoration:none">
+      <div class="divider my-2" data-content="{{ .month }}"></div>
+      <a class="tile s-rounded shadow my-gap p-2" href="{{ .source }}" style="text-decoration:none">
         <div class="tile-content">
-          <div class="tile-title h4">{{ .LinkTitle }}</div>
-          <div class="tile-subtitle text-dark">{{ .Description | markdownify }}</div>
+          <div class="tile-title h4">{{ .title }}</div>
+          <div class="tile-subtitle text-dark">{{ .reason | markdownify }}</div>
+          <div class="tile-subtitle text-dark">Fine 💸: {{ .fine }}</div>
         </div>
       </a>
     </div>
   </div>
-{{ end }}
+  {{ end }}
 </div>

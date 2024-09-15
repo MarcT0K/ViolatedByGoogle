@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2019 [Shin Tatt, Wong](https://github.com/st-wong)
+Copyright (c) 2024 [Marc D.](https://github.com/MarcT0K) (based on [Shin Tatt, Wong](https://github.com/st-wong))
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
