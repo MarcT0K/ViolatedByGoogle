@@ -1,9 +1,9 @@
-<header class="container p-centered text-center mt-space">
-  <a class="avatar avatar-profile" href="{{ "about" | absURL }}">
-    <img id="profile">
-  </a>
-  <div class="my-2 py-2">
-    <h3>{{ .Site.Params.name }} {{ if .Site.Params.altName }}<span class="text-clip">[ {{ .Site.Params.altName }} ]</span>{{ end }}</h3>
-    <h5 class="text-gray text-italic">{{ .Site.Params.name | markdownify }}</h5>
+<header class="container p-centered text-center my-gap">
+  <div>
+    <img src="images/google_evil.svg" width="130px"/>
+  </div>
+  <div class="my-2 py-2 my-gap">
+    <h3 class="text-accent">{{ .Site.Params.name | markdownify}}</h3>
+    <h5 class="text-gray-dark">{{ .Site.Params.description | markdownify }}</h5>
   </div>
 </header>

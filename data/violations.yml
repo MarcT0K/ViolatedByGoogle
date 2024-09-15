@@ -1,9 +1,88 @@
-# PLEASE SORT THE ENTRIES
+# PLEASE SORT THE ENTRIES by (inverse) date
 
-- title: Antitrust
-  from: European Union
-  year: 2024
+
+- title: Monopoly abuse
+  from: India 🇮🇳
+  year: 2022
   month: "October"
-  source: "https://www.reuters.com/technology/eu-court-upholds-googles-27-bln-eu-antitrust-fine-2024-09-10/"
-  reason: "Not good"
-  fine: "2.42B€"
+  source: "https://techcrunch.com/2022/10/25/google-hit-with-113-million-fine-in-india-for-anti-competitive-practices-with-play-store-policies/"
+  reason: "For refusing to allow third-party payments."
+  fine: "$113M"
+
+
+- title: Monopoly abuse
+  from: India 🇮🇳
+  year: 2022
+  month: "October"
+  source: "https://www.aljazeera.com/economy/2022/10/20/google-fined-162m-by-india-antitrust-watchdog-for-abuse"
+  reason: "For leveraging its dominant position in markets such as online search and app store for Android."
+  fine: "$162M"
+
+- title: Privacy violation
+  from: South Korea 🇰🇷
+  year: 2022
+  month: "September"
+  source: "https://www.reuters.com/technology/skorea-fines-google-meta-over-accusations-privacy-law-violations-yonhap-2022-09-14/"
+  reason: "For not clearly informing users and obtaining their prior consent when collecting and analysing behavioural information to use them for customised advertisements."
+  fine: "$50M"
+
+- title: Monopoly abuse
+  from: European Union 🇪🇺 / United Kingdom 🇬🇧
+  year: 2022
+  month: "September"
+  source: "https://www.theguardian.com/technology/2022/sep/13/google-lawsuit-uk-eu-digital-advertising"
+  reason: "For anticompetitive conduct in the digital advertising market."
+  fine: "Potentially €25B"
+
+
+- title: Privacy violation
+  from: Australia 🇦🇺
+  year: 2022
+  month: "August"
+  source: "https://www.abc.net.au/news/2022-08-12/google-fined-60m-misleading-mobile-users-location-data/101329790"
+  reason: "For the illegal collection and use of personal location data."
+  fine: "$60M"
+
+
+
+- title: Privacy violation
+  from: Spain 🇪🇸
+  year: 2022
+  month: "May"
+  source: "https://techcrunch.com/2022/05/18/google-spain-lumen-gdpr-rtbf/"
+  reason: "For frustrating their legal right to erasion of their information (i.e., right to be forgotten)."
+  fine: "€10M"
+
+- title: Privacy violation
+  from: France 🇫🇷
+  year: 2022
+  month: "January"
+  source: "https://www.theguardian.com/technology/2022/jan/06/france-fines-google-and-facebook-210m-over-user-tracking-cookies"
+  reason: "For making it difficult for internet users to refuse cookies."
+  fine: "€150M"
+
+- title: Monopoly abuse
+  from: European Union 🇪🇺
+  year: 2019
+  month: "March"
+  source: "https://www.zdnet.com/article/google-hit-with-eur1-49-billion-antitrust-fine-by-europe-over-online-advertising/"
+  reason: "For imposing a number of restrictive clauses in contracts with third-party websites which stopped Google's rivals from placing their search adverts on these websites."
+  fine: "€1.49B"
+
+
+- title: Monopoly abuse
+  from: European Union 🇪🇺
+  year: 2018
+  month: "July"
+  source: "https://www.bbc.com/news/technology-44858238"
+  reason: "For using using its mobile operating system to illegally cement its dominant position in search."
+  fine: "€4.34B"
+
+- title: Monopoly abuse
+  from: European Union 🇪🇺
+  year: 2017
+  month: "June"
+  source: "https://www.reuters.com/article/world/eu-hits-google-with-record-24-billion-euro-fine-idUSKBN19I101/"
+  reason: "For favouring its own shopping service, taking a tough line in the first of three probes of its dominance in searches and smartphone operating systems."
+  fine: "€2.42B"
+

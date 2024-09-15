@@ -4,18 +4,11 @@ languageCode = "en-us"
 title = "Violated by Google"
 theme = "spectre-pixel-custom"
 
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
-
 [params]
-  name = "John Doe"
-  description = "Describe your website"
-  bio = "Blogger & Programmer"
-  enableRSS = false
+  name = "All the times Google forgot not **to be evil**"
+  description = "Non-exhaustive list of the privacy/tax/etc. violations committed by Google"
 
-  # Author information in posts
-  aboutAuthor = "I'm a Programmer."
-
+  enableRSS = true
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   customCSS = []
@@ -24,9 +17,6 @@ googleAnalytics = ""
   # The variables below are optionally too and can be used to
   # translate or customize each string of the theme.
 
-  # Navigation links
-	home = ""
-	subscribe = ""
 
 	# Pagination links
 	olderPosts = ""

@@ -26,7 +26,8 @@
         <div class="tile-content">
           <div class="tile-title h4">{{ .title }}</div>
           <div class="tile-subtitle text-dark">{{ .reason | markdownify }}</div>
-          <div class="tile-subtitle text-dark">Fine 💸: {{ .fine }}</div>
+          <div class="tile-subtitle text-dark"><span class="text-bold">Country</span>: {{ .from }}</div>
+          <div class="tile-subtitle text-dark"><span class="text-bold">Fine</span> 💸: {{ .fine }}</div>
         </div>
       </a>
     </div>
