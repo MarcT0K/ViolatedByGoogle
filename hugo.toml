@@ -1,8 +1,8 @@
 # Site settings
 baseurl = "https://example.com/"
 languageCode = "en-us"
-title = "Spectre Pixel Theme"
-theme = "spectre-pixel"
+title = "Violated by Google"
+theme = "spectre-pixel-custom"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -37,7 +37,7 @@ googleAnalytics = ""
 	title404 = ""
 	subtitle404 = ""
 
-  github   = "https://www.github.com/"
+  github   = "https://github.com/MarcT0K/ViolatedByGoogle"
 
 [taxonomies]
   tag = "tags"
