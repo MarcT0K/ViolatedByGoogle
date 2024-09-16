@@ -25,9 +25,16 @@
       <a class="tile s-rounded shadow my-gap p-2" href="{{ .source }}" style="text-decoration:none">
         <div class="tile-content">
           <div class="tile-title h4">{{ .title }}</div>
-          <div class="tile-subtitle text-dark">{{ .reason | markdownify }}</div>
+          {{ if .reason }}
+          <div class="tile-subtitle text-dark">{{ if .settlement }}<i>Allegations:</i>{{ end }}{{ if .fine }}<i>Reason:</i>{{ end }} {{ .reason | markdownify }}</div>
+          {{ end }}
           <div class="tile-subtitle text-dark"><span class="text-bold">Country</span>: {{ .from }}</div>
+          {{ if .fine }}
           <div class="tile-subtitle text-dark"><span class="text-bold">Fine</span> 💸: {{ .fine }}</div>
+          {{ end }}
+          {{ if .settlement }}
+          <div class="tile-subtitle text-dark"><span class="text-bold">Settlement</span> 💸: {{ .settlement }}</div>
+          {{ end }}
         </div>
       </a>
     </div>

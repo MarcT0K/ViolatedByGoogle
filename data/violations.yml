@@ -6,7 +6,7 @@
   month: "May"
   source: "https://news.bloomberglaw.com/privacy-and-data-security/google-62-million-location-data-settlement-finalized-by-judge"
   reason: "For tracking and storage of the mobile-device user-location data of nearly 250 million US users."
-  fine: "$62M (settlement)"
+  settlement: "$62M"
 
 - title: Copyright infringement
   from: France 🇫🇷
@@ -22,7 +22,7 @@
   month: "December"
   source: "https://www.reuters.com/legal/google-pay-700-mln-us-consumers-states-play-store-settlement-2023-12-19/"
   reason: "For overcharging consumers through unlawful restrictions on the distribution of apps on Android devices and unnecessary fees for in-app transactions."
-  fine: "$700M (settlement)"
+  settlement: "$700M"
 
 - title: Privacy violation
   from: United States 🇺🇸
@@ -30,7 +30,7 @@
   month: "December"
   source: "https://www.reuters.com/legal/google-settles-5-billion-consumer-privacy-lawsuit-2023-12-28/"
   reason: "For secretly tracking the internet use of millions of people who thought they were doing their browsing privately."
-  fine: "$5B (settlement)"
+  settlement: "$5B"
 
 - title: Unfair labor practices
   from: United States 🇺🇸
@@ -38,7 +38,7 @@
   month: "December"
   source: "https://www.semafor.com/article/12/01/2023/google-reaches-27-million-employee-settlement"
   reason: "For policies restraining speech and whistleblowing."
-  fine: "$27M (settlement)"
+  settlement: "$27M"
 
 - title: Monopoly abuse
   from: India 🇮🇳
@@ -63,7 +63,7 @@
   month: "October"
   source: "https://www.nbcchicago.com/news/local/everything-to-know-about-google-class-action-settlement-for-illinois-residents/2955833/"
   reason: "For automatically identifing faces in photos and videos uploaded to Photos."
-  fine: "$100M (settlement)"
+  settlement: "$100M"
 
 - title: Privacy violation
   from: South Korea 🇰🇷
@@ -114,7 +114,7 @@
   month: "November"
   source: "https://www.irishtimes.com/business/technology/google-ireland-agrees-345m-tax-settlement-with-revenue-1.4738798"
   reason: ""
-  fine: "€218M (settlement)"
+  settlement: "€218M"
 
 - title: Privacy violation
   from: Belgium 🇧🇪
@@ -138,7 +138,7 @@
   month: "December"
   source: "https://ministers.treasury.gov.au/ministers/josh-frydenberg-2018/media-releases/governments-tax-avoidance-laws-sees-google-settle-ato"
   reason: ""
-  fine: "$481M (settlement)"
+  settlement: "$481M"
 
 
 - title: Privacy violation
@@ -147,7 +147,7 @@
   month: "September"
   source: "https://www.ftc.gov/news-events/news/press-releases/2019/09/google-youtube-will-pay-record-170-million-alleged-violations-childrens-privacy-law"
   reason: "For alleged violations of Children’s Privacy Law."
-  fine: "$170M (settlement)"
+  settlement: "$170M"
 
 - title: Tax
   from: France 🇫🇷
@@ -155,7 +155,7 @@
   month: "September"
   source: "https://www.reuters.com/article/technology/google-to-pay-1-billion-in-france-to-settle-fiscal-fraud-probe-idUSKCN1VX1SE/"
   reason: ""
-  fine: "€1B (settlement)"
+  settlement: "€1B"
 
 - title: Privacy violation
   from: United States 🇺🇸
@@ -163,7 +163,7 @@
   month: "July"
   source: "https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html"
   reason: "For collecting people’s private information through its Street View project. ."
-  fine: "$13M (settlement)"
+  settlement: "$13M"
 
 - title: Monopoly abuse
   from: European Union 🇪🇺
@@ -203,7 +203,7 @@
   month: "May"
   source: "https://www.ft.com/content/4adb933e-30d0-11e7-9555-23ef563ecf9a"
   reason: ""
-  fine: "€306M (settlement)"
+  settlement: "€306M"
 
 - title: Tax
   from: United Kingdom 🇬🇧
@@ -211,7 +211,7 @@
   month: "January"
   source: "https://www.bbc.com/news/business-35381130"
   reason: ""
-  fine: "£130M (settlement)"
+  settlement: "£130M"
 
 - title: Privacy violation
   from: Italy 🇮🇹
@@ -235,7 +235,7 @@
   month: "March"
   source: "https://www.independent.co.uk/tech/google-fined-7m-for-street-view-snooping-8532257.html"
   reason: "For snooping on personal data via Wi-Fi during its Street View mapping project."
-  fine: "$7M (settlement)"
+  settlement: "$7M"
 
 - title: Privacy violation
   from: United States 🇺🇸
@@ -243,4 +243,4 @@
   month: "August"
   source: "https://techcrunch.com/2012/08/09/google-settles-with-ftc-agrees-to-pay-22-5m-penalty-for-bypassing-safari-privacy-settings/"
   reason: "For bypassing Safari privacy settings."
-  fine: "$22.5M (settlement)"
+  settlement: "$22.5M"
