@@ -1,0 +1,65 @@
+:root {
+    --font-family: "Helvetica Neue", sans-serif;
+    --code-font-family: Courier, monospace;
+    --color-primary: #4285F4;
+    --color-primary-hover: #3a6dc4;
+    --color-primary-visit: #3260a8;
+    --color-secondary: #c5cae9;
+    --color-secondary-hover: #7986cb;
+    --color-secondary-visit: #e8eaf6;
+    --color-accent: #db4437;
+    --color-accent-hover: #b93a2f;
+    --color-accent-visit: #df6055;
+    --color-success: #4caf50;
+    --color-success-hover: #388e3c;
+    --color-success-visit: #66bb6a;
+    --color-warning: #ffc107;
+    --color-warning-hover: #ffa000;
+    --color-warning-visit: #ffca28;
+    --color-error: #ff5722;
+    --color-error-hover: #e64a19;
+    --color-error-visit: #ff7043;
+    --color-gray: #bdbdbd;
+    --color-gray-light: #e0e0e0;
+    --color-gray-dark: #757575;
+    --color-dark: #000;
+    --color-dark-bg: #212121;
+    --color-light: #fff;
+    --color-light-bg: #f2f2f2;
+}
+
+.shadow {
+    box-shadow: .2rem .2rem .5rem rgba(87, 85, 217, .2);
+}
+
+.light-shadow{
+    filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.6));
+  }
+
+.symbol {
+    /* display: inline-block; */
+    color: var(--color-dark);
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin-right: 0.5rem;
+    padding: 0.5rem 0;
+}
+
+.symbol:hover {
+    text-decoration: underline;
+    color: var(--color-accent);
+}
+
+.mt-space {
+    margin-top: 6rem !important;
+}
+
+.mx-gap {
+    margin-left: 2rem !important;
+    margin-right: 2rem !important;
+}
+
+.my-gap {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}
