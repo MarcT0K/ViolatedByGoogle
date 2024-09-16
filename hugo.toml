@@ -4,15 +4,23 @@ languageCode = "en-us"
 title = "Violated by Google"
 theme = "spectre-pixel-custom"
 
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
 [params]
   name = "All the times Google forgot not **to be evil**"
   description = "Non-exhaustive list of the privacy/tax/etc. violations committed by Google"
 
-  enableRSS = true
+  enableRSS = false
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   customCSS = []
   customJS  = []
+  
 
   # The variables below are optionally too and can be used to
   # translate or customize each string of the theme.
@@ -29,5 +37,3 @@ theme = "spectre-pixel-custom"
 
   github   = "https://github.com/MarcT0K/ViolatedByGoogle"
 
-[taxonomies]
-  tag = "tags"
