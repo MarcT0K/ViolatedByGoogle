@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.com/"
+baseurl = "violatedbygoogle.com"
 languageCode = "en-us"
 title = "Violated by Google"
 theme = "spectre-pixel-custom"
