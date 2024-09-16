@@ -1,5 +1,44 @@
 # PLEASE SORT THE ENTRIES by (inverse) date
 
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2024
+  month: "May"
+  source: "https://news.bloomberglaw.com/privacy-and-data-security/google-62-million-location-data-settlement-finalized-by-judge"
+  reason: "For tracking and storage of the mobile-device user-location data of nearly 250 million US users."
+  fine: "$62M (settlement)"
+
+- title: Copyright infringement
+  from: France 🇫🇷
+  year: 2024
+  month: "March"
+  source: "https://www.reuters.com/technology/french-competition-watchdog-hits-google-with-250-mln-euro-fine-2024-03-20/"
+  reason: "For the training of its LLM models on content from publishers and news agencies, without notifying them."
+  fine: "€250M"
+
+- title: Monopoly abuse
+  from: United States 🇺🇸
+  year: 2023
+  month: "December"
+  source: "https://www.reuters.com/legal/google-pay-700-mln-us-consumers-states-play-store-settlement-2023-12-19/"
+  reason: "For overcharging consumers through unlawful restrictions on the distribution of apps on Android devices and unnecessary fees for in-app transactions."
+  fine: "$700M (settlement)"
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2023
+  month: "December"
+  source: "https://www.reuters.com/legal/google-settles-5-billion-consumer-privacy-lawsuit-2023-12-28/"
+  reason: "For secretly tracking the internet use of millions of people who thought they were doing their browsing privately."
+  fine: "$5B (settlement)"
+
+- title: Unfair labor practices
+  from: United States 🇺🇸
+  year: 2023
+  month: "December"
+  source: "https://www.semafor.com/article/12/01/2023/google-reaches-27-million-employee-settlement"
+  reason: "For policies restraining speech and whistleblowing."
+  fine: "$27M (settlement)"
 
 - title: Monopoly abuse
   from: India 🇮🇳
@@ -17,6 +56,14 @@
   source: "https://www.aljazeera.com/economy/2022/10/20/google-fined-162m-by-india-antitrust-watchdog-for-abuse"
   reason: "For leveraging its dominant position in markets such as online search and app store for Android."
   fine: "$162M"
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2022
+  month: "October"
+  source: "https://www.nbcchicago.com/news/local/everything-to-know-about-google-class-action-settlement-for-illinois-residents/2955833/"
+  reason: "For automatically identifing faces in photos and videos uploaded to Photos."
+  fine: "$100M (settlement)"
 
 - title: Privacy violation
   from: South Korea 🇰🇷
@@ -61,6 +108,63 @@
   reason: "For making it difficult for internet users to refuse cookies."
   fine: "€150M"
 
+- title: Tax
+  from: Ireland
+  year: 2021
+  month: "November"
+  source: "https://www.irishtimes.com/business/technology/google-ireland-agrees-345m-tax-settlement-with-revenue-1.4738798"
+  reason: ""
+  fine: "€218M (settlement)"
+
+- title: Privacy violation
+  from: Belgium 🇧🇪
+  year: 2020
+  month: "July"
+  source: "https://www.edpb.europa.eu/news/national-news/2020/belgian-dpa-imposes-eu600000-fine-google-belgium-not-respecting-right-be_en"
+  reason: "For not respecting the right to be forgotten of a Belgian citizen, and for lack of transparency in its request form to delist."
+  fine: "€600K"
+
+- title: Privacy violation
+  from: Sweden 🇸🇪
+  year: 2020
+  month: "March"
+  source: "https://www.edpb.europa.eu/news/national-news/2020/swedish-data-protection-authority-imposes-administrative-fine-google_en"
+  reason: "For not complying with GDPR on its search engine."
+  fine: "€7M"
+
+- title: Tax
+  from: Australia 🇦🇺
+  year: 2019
+  month: "December"
+  source: "https://ministers.treasury.gov.au/ministers/josh-frydenberg-2018/media-releases/governments-tax-avoidance-laws-sees-google-settle-ato"
+  reason: ""
+  fine: "$481M (settlement)"
+
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2019
+  month: "September"
+  source: "https://www.ftc.gov/news-events/news/press-releases/2019/09/google-youtube-will-pay-record-170-million-alleged-violations-childrens-privacy-law"
+  reason: "For alleged violations of Children’s Privacy Law."
+  fine: "$170M (settlement)"
+
+- title: Tax
+  from: France 🇫🇷
+  year: 2019
+  month: "September"
+  source: "https://www.reuters.com/article/technology/google-to-pay-1-billion-in-france-to-settle-fiscal-fraud-probe-idUSKCN1VX1SE/"
+  reason: ""
+  fine: "€1B (settlement)"
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2019
+  month: "July"
+  source: "https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html"
+  reason: "For collecting people’s private information through its Street View project. ."
+  fine: "$13M (settlement)"
+
 - title: Monopoly abuse
   from: European Union 🇪🇺
   year: 2019
@@ -69,6 +173,13 @@
   reason: "For imposing a number of restrictive clauses in contracts with third-party websites which stopped Google's rivals from placing their search adverts on these websites."
   fine: "€1.49B"
 
+- title: Privacy violation
+  from: France 🇫🇷
+  year: 2019
+  month: "January"
+  source: "https://www.edpb.europa.eu/news/national-news/2019/cnils-restricted-committee-imposes-financial-penalty-50-million-euros_en"
+  reason: "For lack of transparency, inadequate information and lack of valid consent regarding the ads personalization."
+  fine: "€50M"
 
 - title: Monopoly abuse
   from: European Union 🇪🇺
@@ -86,3 +197,50 @@
   reason: "For favouring its own shopping service, taking a tough line in the first of three probes of its dominance in searches and smartphone operating systems."
   fine: "€2.42B"
 
+- title: Tax
+  from: Italy 🇮🇹
+  year: 2017
+  month: "May"
+  source: "https://www.ft.com/content/4adb933e-30d0-11e7-9555-23ef563ecf9a"
+  reason: ""
+  fine: "€306M (settlement)"
+
+- title: Tax
+  from: United Kingdom 🇬🇧
+  year: 2016
+  month: "January"
+  source: "https://www.bbc.com/news/business-35381130"
+  reason: ""
+  fine: "£130M (settlement)"
+
+- title: Privacy violation
+  from: Italy 🇮🇹
+  year: 2014
+  month: "April"
+  source: "https://www.reuters.com/article/technology/google-pays-1-4-million-fine-in-italy-over-streetview-concerns-idUSBREA3226A/"
+  reason: "For not labeling clearly enough the Google StreetView cars."
+  fine: "€1M"
+
+- title: Privacy violation
+  from: Germany 🇩🇪
+  year: 2013
+  month: "April"
+  source: "https://www.bbc.com/news/technology-22252506"
+  reason: "For illegally recording information from unsecured Wi-Fi networks."
+  fine: "$145K"
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2013
+  month: "March"
+  source: "https://www.independent.co.uk/tech/google-fined-7m-for-street-view-snooping-8532257.html"
+  reason: "For snooping on personal data via Wi-Fi during its Street View mapping project."
+  fine: "$7M (settlement)"
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2012
+  month: "August"
+  source: "https://techcrunch.com/2012/08/09/google-settles-with-ftc-agrees-to-pay-22-5m-penalty-for-bypassing-safari-privacy-settings/"
+  reason: "For bypassing Safari privacy settings."
+  fine: "$22.5M (settlement)"
