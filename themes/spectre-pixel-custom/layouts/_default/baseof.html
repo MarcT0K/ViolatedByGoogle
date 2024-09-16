@@ -5,6 +5,7 @@
 <body>
   <section class="container grid-md">
     <div class="columns">
+      {{ block "profile" . }}{{ end }}
       {{ block "main" . }}{{ end }}
       {{ partial "footer.html" . }}
     </div>

@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
 [minify]
   disableXML = true
-  minifyOutput = true
+  # minifyOutput = true
 
 [params]
   name = "All the times Google forgot not **to be evil**"
