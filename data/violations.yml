@@ -24,6 +24,14 @@
   reason: "For overcharging consumers through unlawful restrictions on the distribution of apps on Android devices and unnecessary fees for in-app transactions."
   settlement: "$700M"
 
+
+- title: Monopoly abuse
+  from: United States 🇺🇸
+  year: 2023
+  month: "December"
+  source: "https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play"
+  reason: "For running illegal app store monopolies (vs. Epic)."
+
 - title: Privacy violation
   from: United States 🇺🇸
   year: 2023
@@ -39,6 +47,14 @@
   source: "https://www.semafor.com/article/12/01/2023/google-reaches-27-million-employee-settlement"
   reason: "For policies restraining speech and whistleblowing."
   settlement: "$27M"
+
+- title: Monopoly abuse
+  from: United States 🇺🇸
+  year: 2023
+  month: "October"
+  source: "https://edition.cnn.com/2023/11/01/tech/tinder-match-group-google-lawsuit/index.html"
+  reason: "For not allowing third-party app markers to charge users for purchases without a commission for Google."
+  settlement: "$40M"
 
 - title: Consumer protection infraction
   from: United States 🇺🇸
@@ -255,6 +271,14 @@
   fine: "€1M"
 
 - title: Privacy violation
+  from: United States 🇺🇸
+  year: 2013
+  month: "November"
+  source: "https://www.nytimes.com/2013/11/19/technology/google-to-pay-17-million-to-settle-privacy-case.html?partner=rss&emc=rss"
+  reason: "For bypassing Safari privacy settings."
+  settlement: "$17M"
+
+- title: Privacy violation
   from: Germany 🇩🇪
   year: 2013
   month: "April"
@@ -270,6 +294,14 @@
   reason: "For snooping on personal data via Wi-Fi during its Street View mapping project."
   settlement: "$7M"
 
+- title: Copyright infringement
+  from: China 🇨🇳
+  year: 2013
+  month: "January"
+  source: "https://web.archive.org/web/20141106143646/http://www.wantchinatimes.com/news-subclass-cnt.aspx?id=20130120000033&cid=1102"
+  reason: "For scanning Mian Mian's works for addition to its online library without her permission."
+  settlement: "$800"
+
 - title: Privacy violation
   from: United States 🇺🇸
   year: 2012
@@ -277,3 +309,19 @@
   source: "https://techcrunch.com/2012/08/09/google-settles-with-ftc-agrees-to-pay-22-5m-penalty-for-bypassing-safari-privacy-settings/"
   reason: "For bypassing Safari privacy settings."
   settlement: "$22.5M"
+
+- title: Copyright infringement
+  from: United States 🇺🇸
+  year: 2011
+  month: "April"
+  source: "https://www.silicon.co.uk/workspace/google-takes-5m-hit-in-bedrock-linux-patent-case-27350"
+  reason: "For infringing on a Linux patent owned by defunct company Bedrock Computer Technologies."
+  settlement: "$5M"
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2010
+  month: "September"
+  source: "https://mashable.com/archive/google-buzz-lawsuit-settlement"
+  reason: "Google Buzz violated several communication privacy laws related to protecting user privacy."
+  settlement: "$8.5M"
