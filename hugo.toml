@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
 [minify]
   disableXML = true
-  # minifyOutput = true
+  minifyOutput = true
 
 [params]
   author = "Marc T0K_ D."
@@ -30,7 +30,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 	# Pagination links
 	olderPosts = ""
 	newerPosts = ""
-	copyright = ""
+	copyright = "Copyright © [Marc 'T0K_' D.](https://github.com/MarcT0K) (2024) - adapted from the [Spectre Pixel Theme](https://github.com/st-wong/hugo-spectre-pixel-theme) (MIT License by Shin Tatt)"
 
 	# 404 page
 	title404 = ""

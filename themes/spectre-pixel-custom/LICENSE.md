@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2024 [Marc D.](https://github.com/MarcT0K)
+Copyright (c) 2024 [Marc D.](https://github.com/MarcT0K) (adapted from the work of [Shin Tatt](https://github.com/st-wong/hugo-spectre-pixel-theme) )
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

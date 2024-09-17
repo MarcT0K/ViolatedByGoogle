@@ -300,7 +300,7 @@
   month: "January"
   source: "https://web.archive.org/web/20141106143646/http://www.wantchinatimes.com/news-subclass-cnt.aspx?id=20130120000033&cid=1102"
   reason: "For scanning Mian Mian's works for addition to its online library without her permission."
-  settlement: "$800"
+  fine: "$800"
 
 - title: Privacy violation
   from: United States 🇺🇸
