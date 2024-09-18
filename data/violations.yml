@@ -349,13 +349,6 @@
   reason: "For infringing on a Linux patent owned by defunct company Bedrock Computer Technologies."
   settlement: "$5M"
 
-- title: Copyright infringement
-  from: China 🇨🇳
-  year: 2010
-  month: "January"
-  source: "http://web.archive.org/web/20100113195206/https://www.google.com/hostednews/afp/article/ALeqM5hDz0P2L_hYnB9tqfD3jTkWlQwEIg"
-  reason: "Apologised to Chinese writers for having scanned books under Chinese copyright for its Google Books digital library project."
-
 - title: Privacy violation
   from: United States 🇺🇸
   year: 2010
@@ -363,6 +356,13 @@
   source: "https://mashable.com/archive/google-buzz-lawsuit-settlement"
   reason: "Google Buzz violated several communication privacy laws related to protecting user privacy."
   settlement: "$8.5M"
+
+- title: Copyright infringement
+  from: China 🇨🇳
+  year: 2010
+  month: "January"
+  source: "http://web.archive.org/web/20100113195206/https://www.google.com/hostednews/afp/article/ALeqM5hDz0P2L_hYnB9tqfD3jTkWlQwEIg"
+  reason: "Apologised to Chinese writers for having scanned books under Chinese copyright for its Google Books digital library project."
 
 - title: Copyright infringement
   from: France 🇫🇷
