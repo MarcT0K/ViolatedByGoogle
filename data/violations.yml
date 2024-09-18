@@ -24,7 +24,6 @@
   reason: "For overcharging consumers through unlawful restrictions on the distribution of apps on Android devices and unnecessary fees for in-app transactions."
   settlement: "$700M"
 
-
 - title: Monopoly abuse
   from: United States 🇺🇸
   year: 2023
@@ -56,6 +55,14 @@
   reason: "For not allowing third-party app markers to charge users for purchases without a commission for Google."
   settlement: "$40M"
 
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2023
+  month: "September"
+  source: "https://apnews.com/article/google-california-settlement-location-971f56ee70554b827116e02ea446b9e6"
+  reason: "For tracking people’s location data even after they opted out of such tracking by disabling a feature the company called 'location history'."
+  settlement: "$93M"
+
 - title: Consumer protection infraction
   from: United States 🇺🇸
   year: 2023
@@ -71,6 +78,14 @@
   source: "https://news.bloomberglaw.com/litigation/google-workers-win-nod-for-nearly-8-4-million-wage-suit-deal"
   reason: "For having miscalculated overtime pay rates."
   settlement: "$8.4M"
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2022
+  month: "November"
+  source: "https://apnews.com/article/google-privacy-settlement-location-data-57da4f0d3ae5d69b14f4b284dd084cca"
+  reason: "For tracking people’s location data even after they opted out of such tracking by disabling a feature the company called 'location history'."
+  settlement: "$392M"
 
 - title: Monopoly abuse
   from: India 🇮🇳
@@ -141,6 +156,14 @@
   reason: "Retaliation against 6 employees for their labor activism."
   settlement: "$??M"
 
+- title: Discrimination
+  from: United States 🇺🇸
+  year: 2022
+  month: "February"
+  source: "https://www.bloomberg.com/news/articles/2022-02-21/google-reaches-undisclosed-settlement-in-discrimination-suit"
+  reason: "For pregnancy discrimination."
+  settlement: "$??M"
+
 - title: Privacy violation
   from: France 🇫🇷
   year: 2022
@@ -205,6 +228,14 @@
   source: "https://www.reuters.com/article/technology/google-to-pay-1-billion-in-france-to-settle-fiscal-fraud-probe-idUSKCN1VX1SE/"
   reason: ""
   settlement: "€1B"
+
+- title: Discrimination
+  from: United States 🇺🇸
+  year: 2019
+  month: "July"
+  source: "https://www.seattletimes.com/business/google-settles-age-discrimination-class-action-lawsuit-with-more-than-200-workers-for-11-million/"
+  reason: "For age discriminations."
+  settlement: "$11M"
 
 - title: Privacy violation
   from: United States 🇺🇸
@@ -317,6 +348,21 @@
   source: "https://www.silicon.co.uk/workspace/google-takes-5m-hit-in-bedrock-linux-patent-case-27350"
   reason: "For infringing on a Linux patent owned by defunct company Bedrock Computer Technologies."
   settlement: "$5M"
+
+- title: Copyright infringement
+  from: China 🇨🇳
+  year: 2010
+  month: "January"
+  source: "http://web.archive.org/web/20100113195206/https://www.google.com/hostednews/afp/article/ALeqM5hDz0P2L_hYnB9tqfD3jTkWlQwEIg"
+  reason: "Apologised to Chinese writers for having scanned books under Chinese copyright for its Google Books digital library project."
+
+- title: Copyright infringement
+  from: France 🇫🇷
+  year: 2009
+  month: "December"
+  source: "https://www.france24.com/fr/20091218-google-condamn-contrefa-on-droits-dauteur"
+  reason: "For having digitized, without permission, books (from the book editor: La Martinière) for its Google Books digital library project."
+  fine: "€300K"
 
 - title: Privacy violation
   from: United States 🇺🇸
