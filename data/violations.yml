@@ -245,13 +245,14 @@
   reason: "For collecting people’s private information through its Street View project. ."
   settlement: "$13M"
 
-- title: Monopoly abuse
-  from: European Union 🇪🇺
-  year: 2019
-  month: "March"
-  source: "https://www.zdnet.com/article/google-hit-with-eur1-49-billion-antitrust-fine-by-europe-over-online-advertising/"
-  reason: "For imposing a number of restrictive clauses in contracts with third-party websites which stopped Google's rivals from placing their search adverts on these websites."
-  fine: "€1.49B"
+# - title: Monopoly abuse
+#   from: European Union 🇪🇺
+#   year: 2019
+#   month: "March"
+#   source: "https://www.zdnet.com/article/google-hit-with-eur1-49-billion-antitrust-fine-by-europe-over-online-advertising/"
+#   reason: "For imposing a number of restrictive clauses in contracts with third-party websites which stopped Google's rivals from placing their search adverts on these websites."
+#   fine: "€1.49B"
+# (annulation: https://www.euractiv.com/section/competition/news/top-eu-court-annuls-a-e1-49-billion-fine-on-google/ ... possible appeal)
 
 - title: Privacy violation
   from: France 🇫🇷
