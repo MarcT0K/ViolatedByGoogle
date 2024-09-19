@@ -172,6 +172,13 @@
   reason: "For making it difficult for internet users to refuse cookies."
   fine: "€150M"
 
+- title: Privacy violation
+  from: Austria 🇦🇹
+  year: 2022
+  month: "January"
+  source: "https://www.euractiv.com/section/politics/short_news/use-of-google-analytics-violates-eu-law-austrian-authority-rules/"
+  reason: "The use of Google Analytics violates GDPR."
+
 - title: Tax
   from: Ireland 🇮🇪
   year: 2021
@@ -187,6 +194,14 @@
   source: "https://www.dol.gov/newsroom/releases/ofccp/ofccp20210201"
   reason: "For pay and hiring discrimination at California, Washington State locations."
   settlement: "$3.8M"
+
+- title: Privacy violation
+  from: Hungary 🇭🇺
+  year: 2020
+  month: "July"
+  source: "https://www.naih.hu/files/NAIH-2020-5553-hatarozat.pdf"
+  reason: "For violating the data access right."
+  fine: "€29"
 
 - title: Privacy violation
   from: Belgium 🇧🇪
