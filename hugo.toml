@@ -26,6 +26,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
   # The variables below are optionally too and can be used to
   # translate or customize each string of the theme.
 
+  images = ["images/google_evil.jpg"]
 
 	# Pagination links
 	olderPosts = ""
