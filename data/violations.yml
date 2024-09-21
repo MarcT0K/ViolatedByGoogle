@@ -187,6 +187,14 @@
   reason: ""
   settlement: "€218M"
 
+- title: Monopoly abuse
+  from: France 🇫🇷
+  year: 2021
+  month: "June"
+  source: "https://www.france24.com/en/business/20210607-french-regulator-fines-google-%E2%82%AC220-million-over-advertising-practices"
+  reason: "for abusing its ‘dominant’ position in online advertising."
+  fine: "€220M"
+
 - title: Discrimination
   from: United States 🇺🇸
   year: 2021
