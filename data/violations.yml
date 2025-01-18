@@ -1,12 +1,52 @@
 # PLEASE SORT THE ENTRIES by (inverse) date
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
+  from: Turkey 🇹🇷
+  year: 2024
+  month: "December"
+  source: "https://www.reuters.com/technology/turkey-fines-google-75-million-violating-competition-law-2024-12-13/"
+  reason: "for violating competition laws."
+  fine: "$75M"
+
+- title: Anti-competitive behaviour
   from: France 🇫🇷
   year: 2024
   month: "October"
   source: "https://www.lemonde.fr/pixels/article/2024/10/25/google-condamnee-a-verser-26-5-millions-d-euros-a-une-entreprise-francaise_6359642_4408996.html"
   reason: "For anti-competitive practices in online advertising."
   fine: "€26.5M"
+
+- title: Anti-competitive behaviour
+  from: South Korea 🇰🇷
+  year: 2024
+  month: "October"
+  source: "https://www.mobileworldlive.com/regulation/korea-targets-google-apple-for-in-app-payment-breaches/"
+  reason: "For in-app payment breaches(new window) ."
+  fine: "$40.1M"
+
+- title: Privacy violation
+  from: South Korea 🇰🇷
+  year: 2024
+  month: "August"
+  source: "https://tribune.com.pk/story/2498349/google-caught-up-in-million-dollars-fine-over-data-privacy-violations-in-south-korea"
+  reason: "For using pre-selected consent options in its account sign-up process."
+  fine: "$51.7M"
+
+- title: Privacy violation
+  from: South Korea 🇰🇷
+  year: 2024
+  month: "June"
+  source: "https://appleinsider.com/articles/24/06/13/apple-fined-in-south-korea-for-collecting-users-data-without-their-consent"
+  reason: "For sharing location data."
+  fine: "$2K"
+
+- title: Anti-competitive behaviour
+  from: Turkey 🇹🇷
+  year: 2024
+  month: "June"
+  source: "https://dig.watch/updates/turkey-fines-google-14-85-million-over-hotel-searches"
+  reason: "For not meeting obligations related to hotel searches."
+  fine: "$14.85M"
 
 - title: Privacy violation
   from: United States 🇺🇸
@@ -24,7 +64,7 @@
   reason: "For the training of its LLM models on content from publishers and news agencies, without notifying them."
   fine: "€250M"
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
   from: United States 🇺🇸
   year: 2023
   month: "December"
@@ -32,7 +72,7 @@
   reason: "For overcharging consumers through unlawful restrictions on the distribution of apps on Android devices and unnecessary fees for in-app transactions."
   settlement: "$700M"
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
   from: United States 🇺🇸
   year: 2023
   month: "December"
@@ -55,7 +95,7 @@
   reason: "For policies restraining speech and whistleblowing."
   settlement: "$27M"
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
   from: United States 🇺🇸
   year: 2023
   month: "October"
@@ -95,7 +135,7 @@
   reason: "For tracking people’s location data even after they opted out of such tracking by disabling a feature the company called 'location history'."
   settlement: "$392M"
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
   from: India 🇮🇳
   year: 2022
   month: "October"
@@ -104,7 +144,7 @@
   fine: "$113M"
 
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
   from: India 🇮🇳
   year: 2022
   month: "October"
@@ -128,7 +168,7 @@
   reason: "For not clearly informing users and obtaining their prior consent when collecting and analysing behavioural information to use them for customised advertisements."
   fine: "$50M"
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
   from: European Union 🇪🇺 / United Kingdom 🇬🇧
   year: 2022
   month: "September"
@@ -195,7 +235,7 @@
   reason: ""
   settlement: "€218M"
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
   from: France 🇫🇷
   year: 2021
   month: "June"
@@ -276,7 +316,7 @@
   reason: "For collecting people’s private information through its Street View project. ."
   settlement: "$13M"
 
-# - title: Monopoly abuse
+# - title: Anti-competitive behaviour
 #   from: European Union 🇪🇺
 #   year: 2019
 #   month: "March"
@@ -293,7 +333,7 @@
   reason: "For lack of transparency, inadequate information and lack of valid consent regarding the ads personalization."
   fine: "€50M"
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
   from: European Union 🇪🇺
   year: 2018
   month: "July"
@@ -301,7 +341,7 @@
   reason: "For using using its mobile operating system to illegally cement its dominant position in search."
   fine: "€4.34B"
 
-- title: Monopoly abuse
+- title: Anti-competitive behaviour
   from: European Union 🇪🇺
   year: 2017
   month: "June"
