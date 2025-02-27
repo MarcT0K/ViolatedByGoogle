@@ -1,6 +1,22 @@
 # PLEASE SORT THE ENTRIES by (inverse) date
 
 - title: Anti-competitive behaviour
+  from: Italy 🇮🇹
+  year: 2025
+  month: "February"
+  source: "https://www.euractiv.com/section/tech/news/court-confirms-google-may-have-abused-its-dominance-in-android-auto-case/"
+  reason: "For anti-competitive practices in Android Auto."
+  settlement: "€102M"
+
+- title: Tax
+  from: Italy 🇮🇹
+  year: 2025
+  month: "February"
+  source: "https://www.reuters.com/technology/google-agrees-pay-326-mln-euros-settle-italian-tax-case-2025-02-19/"
+  reason: ""
+  settlement: "€326M"
+
+- title: Anti-competitive behaviour
   from: Turkey 🇹🇷
   year: 2024
   month: "December"
