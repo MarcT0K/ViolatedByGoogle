@@ -8,6 +8,22 @@
   reason: "Hurt competition by paying the country's two largest telcos to pre-install its search application on Android phones, excluding rival search engines."
   fine: "$36M"
 
+- title: Anti-competitive behaviour
+  from: Turkey 🇹🇷
+  year: 2025
+  month: "July"
+  source: "https://www.reuters.com/sustainability/boards-policy-regulation/turkeys-competition-board-imposes-89-million-fine-google-2025-07-10/"
+  reason: "Have implemented certain designs that violated regulations during the compliance process of a previous investigation."
+  fine: "$8.87M"
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2025
+  month: "July"
+  source: "https://www.reuters.com/sustainability/boards-policy-regulation/google-hit-with-314-million-us-verdict-cellular-data-class-action-2025-07-01/"
+  reason: "Sending and receiving information from devices without permission while they were idle."
+  fine: "$314M"
+
 - title: Privacy violation
   from: United States 🇺🇸
   year: 2025
