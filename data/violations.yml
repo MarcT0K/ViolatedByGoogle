@@ -5,7 +5,7 @@
   year: 2025
   month: "August"
   source: "https://www.reuters.com/sustainability/boards-policy-regulation/google-agrees-36-million-fine-anti-competitive-deals-with-australia-telcos-2025-08-18/"
-  reason: "Hurt competition by paying the country's two largest telcos to pre-install its search application on Android phones, excluding rival search engines."
+  reason: "For having hurt competition by paying the country's two largest telcos to pre-install its search application on Android phones, excluding rival search engines."
   fine: "$36M"
 
 - title: Anti-competitive behaviour
@@ -13,7 +13,7 @@
   year: 2025
   month: "July"
   source: "https://www.reuters.com/sustainability/boards-policy-regulation/turkeys-competition-board-imposes-89-million-fine-google-2025-07-10/"
-  reason: "Have implemented certain designs that violated regulations during the compliance process of a previous investigation."
+  reason: "For having implemented certain designs that violated regulations during the compliance process of a previous investigation."
   fine: "$8.87M"
 
 - title: Privacy violation
@@ -21,7 +21,7 @@
   year: 2025
   month: "July"
   source: "https://www.reuters.com/sustainability/boards-policy-regulation/google-hit-with-314-million-us-verdict-cellular-data-class-action-2025-07-01/"
-  reason: "Sending and receiving information from devices without permission while they were idle."
+  reason: "For sending and receiving information from devices without permission while they were idle."
   fine: "$314M"
 
 - title: Privacy violation
