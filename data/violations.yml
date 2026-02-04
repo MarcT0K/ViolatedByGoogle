@@ -1,5 +1,21 @@
 # PLEASE SORT THE ENTRIES by (inverse) date
 
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2026
+  month: "January"
+  source: "https://www.reuters.com/sustainability/boards-policy-regulation/google-pay-135-million-settle-android-data-transfer-lawsuit-2026-01-28/"
+  reason: "For programming its Android operating system to collect their cellular data without permission."
+  fine: "$135M"
+
+- title: Privacy violation
+  from: United States 🇺🇸
+  year: 2026
+  month: "January"
+  source: "https://www.bbc.com/news/articles/c4g38jv8zzwo"
+  reason: "For secretly listening to people's private conversations through their phones."
+  fine: "$68M"
+
 - title: Anti-competitive behaviour
   from: European Union 🇪🇺
   year: 2025
