@@ -1,5 +1,14 @@
 # PLEASE SORT THE ENTRIES by (inverse) date
 
+
+- title: Anti-competitive behaviour
+  from: Sweden 🇸🇪
+  year: 2026
+  month: "July"
+  source: "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/"
+  reason: "For favouring its own shopping service in search results."
+  fine: "$1.5"
+
 - title: Privacy violation
   from: United States 🇺🇸
   year: 2026
@@ -21,7 +30,7 @@
   year: 2025
   month: "September"
   source: "https://www.theguardian.com/technology/2025/sep/05/google-fined-european-union"
-  reason: "For abusing dominant position in ad tech"
+  reason: "For abusing dominant position in ad tech."
   fine: "€3B"
 
 - title: Privacy violation
