@@ -2,12 +2,20 @@
 
 
 - title: Anti-competitive behaviour
+  from: European Union 🇪🇺
+  year: 2026
+  month: "July"
+  source: "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1670"
+  reason: " for putting in place restrictions on businesses to direct consumers to alternative, often cheaper, purchase channels on Google Play."
+  fine: "€890M"
+
+- title: Anti-competitive behaviour
   from: Sweden 🇸🇪
   year: 2026
   month: "July"
   source: "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/"
   reason: "For favouring its own shopping service in search results."
-  fine: "$1.5"
+  fine: "$1.5B"
 
 - title: Privacy violation
   from: United States 🇺🇸
