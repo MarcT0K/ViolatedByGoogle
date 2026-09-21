@@ -1,5 +1,12 @@
 # PLEASE SORT THE ENTRIES by (inverse) date
 
+- title: Privacy violation
+  from: Ireland 🇮🇪
+  year: 2026
+  month: "September"
+  source: "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data"
+  reason: "For the way it processed users' location data, following claims that the tech giant had manipulated users into agreeing to be constantly tracked on their mobile phones."
+  settlement: "€400M"
 
 - title: Anti-competitive behaviour
   from: European Union 🇪🇺
@@ -240,7 +247,6 @@
   reason: "For refusing to allow third-party payments."
   fine: "$113M"
 
-
 - title: Anti-competitive behaviour
   from: India 🇮🇳
   year: 2022
@@ -273,7 +279,6 @@
   reason: "For anticompetitive conduct in the digital advertising market."
   fine: "Potentially €25B"
 
-
 - title: Privacy violation
   from: Australia 🇦🇺
   year: 2022
@@ -282,8 +287,6 @@
   reason: "For the illegal collection and use of personal location data."
   fine: "$60M"
 
-
-
 - title: Privacy violation
   from: Spain 🇪🇸
   year: 2022
@@ -291,7 +294,6 @@
   source: "https://techcrunch.com/2022/05/18/google-spain-lumen-gdpr-rtbf/"
   reason: "For frustrating their legal right to erasion of their information (i.e., right to be forgotten)."
   fine: "€10M"
-
 
 - title: Unfair labor practices
   from: United States 🇺🇸
@@ -379,7 +381,6 @@
   source: "https://ministers.treasury.gov.au/ministers/josh-frydenberg-2018/media-releases/governments-tax-avoidance-laws-sees-google-settle-ato"
   reason: ""
   settlement: "$481M"
-
 
 - title: Privacy violation
   from: United States 🇺🇸
