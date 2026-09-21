@@ -6,7 +6,7 @@
   month: "September"
   source: "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data"
   reason: "For the way it processed users' location data, following claims that the tech giant had manipulated users into agreeing to be constantly tracked on their mobile phones."
-  settlement: "€400M"
+  fine: "€400M"
 
 - title: Anti-competitive behaviour
   from: European Union 🇪🇺
